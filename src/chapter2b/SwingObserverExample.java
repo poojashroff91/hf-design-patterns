@@ -45,7 +45,7 @@ public class SwingObserverExample {
 
                 @Override
                 public void actionPerformed(ActionEvent e) {
-                        System.out.println("Come on, do it!");          
+                        System.out.println("Come on, do it!!");          
                 }
                 
         }
