@@ -15,7 +15,7 @@ public class ForecastDisplay implements Observer, DisplayElement{
 	
 	@Override
 	public void display() {
-		System.out.println("Forecast display");
+		System.out.println("Forecast Display");
 		
 	}
 
